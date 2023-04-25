@@ -1,0 +1,16 @@
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.csproj.AssemblyReference.cache
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.AssemblyInfoInputs.cache
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.AssemblyInfo.cs
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.csproj.CoreCompileInputs.cache
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\bin\Debug\net5.0\PracticeModel.exe
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\bin\Debug\net5.0\PracticeModel.deps.json
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\bin\Debug\net5.0\PracticeModel.runtimeconfig.json
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\bin\Debug\net5.0\PracticeModel.runtimeconfig.dev.json
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\bin\Debug\net5.0\PracticeModel.dll
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\bin\Debug\net5.0\ref\PracticeModel.dll
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\bin\Debug\net5.0\PracticeModel.pdb
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.dll
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\ref\PracticeModel.dll
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.pdb
+C:\Users\nsonia\source\repos\PracticeModel\PracticeModel\obj\Debug\net5.0\PracticeModel.genruntimeconfig.cache
