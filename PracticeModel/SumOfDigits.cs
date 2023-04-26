@@ -14,7 +14,7 @@ namespace PracticeModel
              int n,sum = 0;
             Console.WriteLine("enter the number:");
             int i= Convert.ToInt32(Console.ReadLine());
-            for(i=0;i!=0;i=i/10)
+            for(;i!=0;i=i/10)
             {
                 n = i % 10;
                 sum = sum + n;
